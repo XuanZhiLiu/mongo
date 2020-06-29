@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/XuanZhiLiu/mongo"
-	"github.com/XuanZhiLiu/mongo/bsontool"
+	"github.com/georgeliu825/mongo"
+	"github.com/georgeliu825/mongo/bsontool"
 )
 
 type mongoDB struct {

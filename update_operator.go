@@ -1,6 +1,6 @@
 package mongo
 
-import "github.com/XuanZhiLiu/mongo/bsontool"
+import "github.com/georgeliu825/mongo/bsontool"
 
 func (c *Command) Set(fieldName string, document interface{}) *Command {
 	return c.updateOperator("$set", fieldName, document)

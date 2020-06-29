@@ -1,7 +1,7 @@
 package mongo
 
 import (
-	"github.com/XuanZhiLiu/mongo/bsontool"
+	"github.com/georgeliu825/mongo/bsontool"
 )
 
 type Pipeline []bsontool.M

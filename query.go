@@ -1,8 +1,8 @@
 package mongo
 
 import (
-	"github.com/XuanZhiLiu/mongo/bsontool"
-	"github.com/XuanZhiLiu/mongo/internal/glob"
+	"github.com/georgeliu825/mongo/bsontool"
+	"github.com/georgeliu825/mongo/internal/glob"
 )
 
 // enable：由client自行判斷是否需要帶此條件
